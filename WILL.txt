@@ -1,6 +1,5 @@
-#Key
-#WILL-7GT1-I7KF-9J3T-UGGX
-#Script
+Key : WILL-7GT1-I7KF-9J3T-UGGX
+Script
 TP TOOL
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OxioDev/ROBLOX-SCRIPT/refs/heads/main/ab6b8d26-9f88-40ce-9d73-fd74f688326d.lua"))() 
 FLY
